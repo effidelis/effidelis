@@ -16,5 +16,3 @@ processing, vector databases (Qdrant, ChromaDB), and query optimization in distr
 Experience in decision-support, stakeholder interface across commercial, technical, and executive areas, as well as
 data pipeline projects, predictive analytics, and AI-assisted development workflows (Cursor IDE, Claude Code) for
 rapid iteration on ETL logic, refactoring, and prototyping.
-
-![Snake animation](https://raw.githubusercontent.com/effidelis/effidelis/output/github-contribution-grid-snake-dark.svg)
