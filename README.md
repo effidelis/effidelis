@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/efidelis/"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:efidelis@pm.me"><img width="60px" alt="Email" title="Email" src="https://cdn.simpleicons.org/gmail/EA4335"/></a>
+    <a href="mailto:efidelis@gmail.com"><img width="60px" alt="Email" title="Email" src="https://cdn.simpleicons.org/gmail/EA4335"/></a>
 </p>
 
 > Electrical engineer with 12+ years across the power sector, working at the intersection of data, analytics, mathematical modeling, and optimization.
@@ -63,5 +63,5 @@
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/efidelis](https://www.linkedin.com/in/efidelis/)
-- **Email:** efidelis@pm.me
+- **Email:** efidelis@gmail.com
 - **Location:** Florianópolis, SC — Brazil
