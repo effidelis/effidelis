@@ -2,9 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # Atualiza automaticamente a cada 24 horas
     - cron: "0 */24 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
   push:
     branches:
     - main
@@ -26,7 +25,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Versão atualizada para v4 para suportar Node.js 20+ sem avisos
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
