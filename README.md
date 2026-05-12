@@ -1,6 +1,5 @@
 # Eduardo Fidelis
 
-## About me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=500&width=435&lines=Data+Scientist;Machine+Learning;Predictive+Analytics)](https://git.io/typing-svg)
 
 > Professional with over 12 years of experience in data science, analytics, mathematical modeling, and optimization.
@@ -22,49 +21,49 @@ processing, vector databases (Qdrant, ChromaDB), and query optimization in distr
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="Apachespark" 
+    title="Apachespark"
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="Apache Airflow" 
+    title="Apache Airflow"
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="Docker" 
+    title="Docker"
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="Pandas" 
+    title="Pandas"
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="Numpy" 
+    title="Numpy"
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="Scikit-Learn" 
+    title="Scikit-Learn"
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
