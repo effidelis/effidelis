@@ -1,7 +1,9 @@
 # Eduardo Fidelis
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=500&width=435&lines=Data+Scientist;Machine+Learning;Predictive+Analytics)](https://git.io/typing-svg)
-
+<!-- Social icons section -->
+<p align="center">
+    <a href="https://www.linkedin.com/in/efidelis/"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
 > Professional with over 12 years of experience in data science, analytics, mathematical modeling, and optimization.
 >
 >Solid background building end-to-end data pipelines (ETL/ELT), distributed processing with PySpark and Databricks(Delta Lake), and data modeling to support analytical, ML and GenAI/RAG applications in production
