@@ -14,6 +14,9 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    # Esta linha força o uso do Node.js 24 e remove o aviso
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
     steps:
       - name: Generate github-contribution-grid-snake.svg
@@ -25,7 +28,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push github-contribution-grid-snake.svg to the output branch
-        # Versão atualizada para v4 para suportar Node.js 20+ sem avisos
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
