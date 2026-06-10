@@ -1,6 +1,6 @@
 # Eduardo Fidelis
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=500&width=500&lines=Data+Scientist;Energy+Sector+Specialist;ML+%26+GenAI+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=500&width=500&lines=Analytics+Engineering;Data+Engineering;Data+Science;ML+%26+GenAI+Builder)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/efidelis/"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
@@ -54,6 +54,8 @@
 
 ## Experience Highlights
 
+- **Automation the full purchase order cycle** for food-sector commercial reps. Built multimodal document extraction pipeline (Anthropic Claude API) with MIME-type routing and prompt caching (~90% token cost reduction on second call). Designed multi-tenant PostgreSQL schema with deterministic store lookup via CNPJ and per-sector pricing chain. Orchestrated multi-branch workflows via n8n self-hosted. Stack: Python, FastAPI, Next.js, Prisma, n8n, PostgreSQL, Claude API, Railway, Telegram Bot API.
+  
 - **12+ years in the Brazilian power sector** — from system operations (ONS) and wholesale market settlement (CCEE) to regulatory intelligence and analytics at energy companies (SPIC, Statkraft). Deep familiarity with the Brazilian grid (SIN).
 
 - **Mathematical modeling of electricity market rules at CCEE** — translated regulatory resolutions into algebraic models and logical constraints, with quantitative impact analyses and scenario simulations to validate new rules before they went live in Brazil's wholesale power chamber.
