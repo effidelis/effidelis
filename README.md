@@ -22,8 +22,10 @@
 
 ## Featured Projects
 
+- **[Automation the full purchase order cycle](#)** for food-sector commercial reps. Built multimodal document extraction pipeline (Anthropic Claude API) with MIME-type routing and prompt caching (~90% token cost reduction on second call). Designed multi-tenant PostgreSQL schema with deterministic store lookup via CNPJ and per-sector pricing chain. Orchestrated multi-branch workflows via n8n self-hosted. Stack: Python, FastAPI, Next.js, Prisma, n8n, PostgreSQL, Claude API, Railway, Telegram Bot API.
+  
 - **[Pipeline CNPJ](#)** — End-to-end pipeline processing 60M+ company records from the Brazilian Federal Revenue Service (Receita Federal) using PySpark and Databricks. Used to map law firms for partner prospection.
-- **[ANEEL RAG](#)** — Retrieval-Augmented Generation system for Brazilian power-sector regulatory assistance, with automated scraping of ANEEL public consultations and AI-generated technical drafts. Stack: Python, Playwright, SQLite, ChromaDB/Qdrant, LangChain, Streamlit, AWS S3, Claude API.
+    
 - **[linkedin-job-processor](#)** — Automation pipeline for processing LinkedIn job alerts with AI-driven fit analysis and tailored resume generation.
 
 ## Languages and Tools
@@ -54,8 +56,6 @@
 
 ## Experience Highlights
 
-- **Automation the full purchase order cycle** for food-sector commercial reps. Built multimodal document extraction pipeline (Anthropic Claude API) with MIME-type routing and prompt caching (~90% token cost reduction on second call). Designed multi-tenant PostgreSQL schema with deterministic store lookup via CNPJ and per-sector pricing chain. Orchestrated multi-branch workflows via n8n self-hosted. Stack: Python, FastAPI, Next.js, Prisma, n8n, PostgreSQL, Claude API, Railway, Telegram Bot API.
-  
 - **12+ years in the Brazilian power sector** — from system operations (ONS) and wholesale market settlement (CCEE) to regulatory intelligence and analytics at energy companies (SPIC, Statkraft). Deep familiarity with the Brazilian grid (SIN).
 
 - **Mathematical modeling of electricity market rules at CCEE** — translated regulatory resolutions into algebraic models and logical constraints, with quantitative impact analyses and scenario simulations to validate new rules before they went live in Brazil's wholesale power chamber.
